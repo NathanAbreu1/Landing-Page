@@ -1,0 +1,21 @@
+Create a Landing Page for Learn Smart
+
+Header 1 Plans
+Header 2 Students
+Header 3 About the classes
+
+*Change colors to more American Flag ones*
+
+The used Methods
+
+Method 1
+Method 2
+Method 3
+Method 4
+
+Inspiration quote: Learning must be fun and done smartly
+
+What's app Link 
+(Create a hyperlink to the class)
+
+Set it up online
